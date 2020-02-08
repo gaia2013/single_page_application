@@ -1,5 +1,5 @@
 <template>
-  <p>ここはトップページです。</p>
+  <p>ここはぺージ２です。</p>
 </template>
 
 <script>
